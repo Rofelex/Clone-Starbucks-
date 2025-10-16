@@ -56,3 +56,33 @@ section.sobre{
     border-radius: 50%;
     background-color:rgb(0, 99, 65) ;
 }
+
+.social-media{
+    position: absolute;
+    right: 510px;
+    top: 200px;
+}
+
+.social-media img{
+    display: block;
+    width: 40px;
+    margin: 10px 0;
+}
+
+.texto-sobre{
+    margin-top: 100px;
+}
+
+.texto-sobre h1{
+    font-size: 50px;
+}
+
+.texto-sobre button{
+    border: 0;
+    background-color: #017143;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
